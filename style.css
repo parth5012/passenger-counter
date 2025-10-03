@@ -1,0 +1,22 @@
+body{
+    background-image: url("bg.jpg");
+    background-size: cover;
+    color:white;
+    text-align: center;
+}
+
+.btn{
+    border:none;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+#Increment-btn{
+    background-color: darkred;
+}
+#save-btn{
+    background-color: darkgreen;
+}
